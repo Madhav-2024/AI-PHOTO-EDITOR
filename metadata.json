@@ -1,0 +1,5 @@
+{
+  "name": " AI Photo Editor & Architect",
+  "description": "An intelligent photo editing application that allows users to upload a photo, modify it using AI-powered text prompts, and generate a detailed architectural analysis of the image content.",
+  "requestFramePermissions": []
+}
